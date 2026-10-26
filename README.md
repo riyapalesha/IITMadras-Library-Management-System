@@ -30,7 +30,7 @@ Since this repository combines both the backend and frontend into a single proje
 Open a terminal window and navigate to the `backend/` directory:
 
 ```bash
-cd backend
+cd Library-Management-System-backend
 
 ```
 
@@ -105,7 +105,7 @@ python3 main.py
 Open a separate terminal window and navigate to the `frontend/` directory:
 
 ```bash
-cd frontend
+cd Library-Management-System-frontend
 
 ```
 
